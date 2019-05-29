@@ -4,3 +4,4 @@
 ## 2018
 ##
 
+SELECT COUNT(*) FROM tbl1 WHERE YEAR(C14) = 2018;

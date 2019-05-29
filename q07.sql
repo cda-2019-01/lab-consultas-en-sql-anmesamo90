@@ -6,3 +6,4 @@
 ##
 
 
+SELECT * FROM tbl1 WHERE K0 NOT IN ('A','B') AND c13 NOT IN (200,300) ORDER BY c14;

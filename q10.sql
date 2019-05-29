@@ -5,3 +5,4 @@
 ##
 
 
+SELECT * FROM tbl0 WHERE C02 >= 300;

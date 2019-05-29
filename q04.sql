@@ -5,3 +5,4 @@
 ## 
 
 
+SELECT K0, c16 FROM tbl1 WHERE K0 = SUBSTR(c16,1,1);

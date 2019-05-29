@@ -5,3 +5,4 @@
 ##
 
 
+SELECT MIN(C21) FROM tbl2;
